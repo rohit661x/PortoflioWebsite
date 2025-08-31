@@ -159,9 +159,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 - **Email**: rohit@example.com
-- **GitHub**: [@rohitsuryadevara](https://github.com/rohitsuryadevara)
-- **LinkedIn**: [Rohit Suryadevara](https://linkedin.com/in/rohitsuryadevara)
-- **Twitter**: [@rohitsuryadevara](https://x.com/rohitsuryadevara)
+- **GitHub**: [@rohit661x](https://github.com/rohit661x)
+- **LinkedIn**: [Rohit Suryadevara](https://www.linkedin.com/in/rohitsuryadevara/)
+- **Twitter**: [@rohitsurya4640](https://x.com/rohitsurya4640)
 
 ## 🔮 Future Enhancements
 
