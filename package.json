@@ -1,0 +1,39 @@
+{
+  "name": "rohit-suryadevara-portfolio",
+  "version": "1.0.0",
+  "description": "ML Performance Engineering Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "build": "echo 'No build process required for static site'",
+    "lint": "echo 'No linting configured'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "ml",
+    "performance-engineering",
+    "machine-learning",
+    "web-development",
+    "responsive-design"
+  ],
+  "author": "Rohit Suryadevara",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohitsuryadevara/portfolio-website.git"
+  },
+  "homepage": "https://rohitsuryadevara.com",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
